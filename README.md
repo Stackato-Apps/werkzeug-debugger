@@ -6,4 +6,4 @@
 
 ## Deploying to Stackato
 
-    stackato push werkzeug-debugger
+    stackato push -n
