@@ -3,9 +3,3 @@ name: werkzeug-debugger
 requirements:
   pypm:
     - werkzeug
-
-min_version:
-  server: 0.9.0.143
-
-
-
