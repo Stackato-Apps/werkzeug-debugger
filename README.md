@@ -8,6 +8,6 @@ This sample demonstrates the in-browser interactive debugger feature provided by
 
     pypm install -r requirements.txt
 
-## Deploying to Stackato
+## Deploying to HPE Helion Stackato
 
     stackato push -n
